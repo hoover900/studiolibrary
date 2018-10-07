@@ -1,3 +1,3 @@
 import studiolibrary
 
-print "Importing Studo Library dependencies"
+print "Loading Module: Studio Library 2.4.11b"
